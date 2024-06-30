@@ -14,6 +14,7 @@ require_once ($_SERVER["DOCUMENT_ROOT"] . "/API-Security/Authenticator\CipherLib
 class Login
 {
 function __construct(){
+    error_reporting(0);
     if(count($_COOKIE)<=0){
     $col0 = "username";
     $filter0 = "id";

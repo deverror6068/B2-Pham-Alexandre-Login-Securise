@@ -7,6 +7,7 @@ class Utils
 
     }
     Public function ArrayKeyOnly($data){
+        error_reporting(0);
         $realdata = [];
         foreach ($data as $cle => $valeur) {
             if (is_string($cle)) {
