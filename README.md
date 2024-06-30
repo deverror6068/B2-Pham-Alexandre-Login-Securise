@@ -22,3 +22,13 @@
  INDEX
  DROP
  * placer le sous dossier contenu dans ``src`` dans ```www```
+
+
+# Utilisation 
+
+Pour  S'inscrire tapez http://localhost/API-Security/Register
+Pour se Connecter tapez http://localhost/API-Security/Login
+Pour se Déconnecter tapez  http://localhost/API-Security/SignOut
+
+Pour utiliser l'api CRUD:
+pour créer un evènement tapez   http://localhost/API-Security/CreateData/?table=events&data={"name":"event","date":20/06/2024,duration:120}
