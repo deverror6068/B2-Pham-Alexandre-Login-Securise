@@ -3,7 +3,7 @@
 
 * Téléchargez le fichier
 
-* prendre le dossier ``install in wamp64`` et comme son l'indique  mettre  les deux sous dossiers contenus dans le dossier dans le dossier ``wamp64``  sans quoi le login ne fonctionnera pas
+* prendre le dossier ``install in wamp64`` et comme son l'indique  mettre  les deux sous dossiers contenus dans le dossier dans le dossier ``wamp64``  sans quoi le login  sécurisé ne fonctionnera pas
 
 * créer les de données "auth" et "events" dans  phpmyadmins
 
